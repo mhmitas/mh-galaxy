@@ -88,4 +88,8 @@ body {
   .title-1 {
     @apply text-3xl font-bold tracking-tighter md:text-4xl;
   }
+
+  .hero-card {
+    @apply p-4 sm:p-6 text-xs sm:text-base rounded-lg font-semibold bg-muted
+  }
 }
